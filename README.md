@@ -1,5 +1,5 @@
-# cheseAI
-AI chese
+# chessAI
+AI chess
 1:pip install pygame
 
 --------------------------------------------------------------------------
